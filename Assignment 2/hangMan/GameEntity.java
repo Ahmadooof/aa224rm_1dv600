@@ -151,7 +151,6 @@ public class GameEntity {
 		}
 
 		System.out.print("Result Of Guessing : ");
-		System.out.println(randomWord);
 		for(Object ch : saveResult)
 			System.out.print(ch);
 		System.out.println();
